@@ -1,0 +1,24 @@
+.heading {
+  background-color: rgb(119, 117, 117);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 3rem;
+  border-radius: 15px;
+}
+
+.heading p {
+  padding-top: 0.8rem;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.map-row {
+  background-color: rgb(119, 117, 117);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 3rem;
+  border-radius: 15px;
+  color: whitesmoke;
+}
